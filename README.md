@@ -1,5 +1,5 @@
 # mobile_robots_exercise
-- E2: Tait-Bryan angles for orientation of an aeroplane\
+- E2: Tait-Bryan angles for orientation of an aeroplane
 - E3_1: Diff-drive robot including simulating measurements
 - E3_2: PinholeCamera model
 - E4_1: Least square methods
